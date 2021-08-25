@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @noobiereal
-- 👀 I’m interested in fnf
-- 🌱 I’m currently learning how to script a mod
-- 💞️ I’m looking to collaborate on no one 
-- Meh discord: ¯\_(ツ)_/¯#0567
+idk
